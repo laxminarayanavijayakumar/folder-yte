@@ -1,0 +1,12 @@
+{
+    "name":"laxminarayana",
+    "username":"admin@gmail.com",
+    "password":"admin@123",
+    "interests":["Cypress","Playwright","Selenium","Jenkins","Java"],
+    "gender":"male",
+    "address":{
+        "area":"chrompet",
+        "city":"chennai",
+        "pincode":600009
+    }
+}
